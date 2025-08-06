@@ -21,6 +21,13 @@ This script will **completely lock down your Mac** for 2 minutes at every full h
 
 ## 🛠️ Installation & Setup
 
+### Fastest way
+If you just want to use it fast with no other edits, you can just:
+1. Clone/download **FitBlock** repo.
+2. Double click on **FitBlock.app**.
+3. Insert your MacOS password (needed for admin privileges)
+4. Enjoy breaks🎉
+
 ### Prerequisites
 - macOS (duh, this is a Mac-only tool)
 - Python 3.x
